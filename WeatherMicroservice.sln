@@ -19,6 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherApp", "Apps\WeatherA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestProject", "Tests\XUnitTestProject\XUnitTestProject.csproj", "{45D997C4-CA6F-4681-95BE-30DE1E7B616B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{1AC58167-21F2-4F05-9986-1FF9AC6CCC5F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Documents\WeatherMicroservices.vsdx = ..\..\..\..\Documents\WeatherMicroservices.vsdx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +65,7 @@ Global
 		{0B1E3ECE-55CF-4433-B1AC-241EFCEBD6DA} = {FB1AD97B-682B-4F82-9B4E-BA694A5BFEE3}
 		{06D1FDF6-D8E4-43A4-96F3-06A46E2A481D} = {FB1AD97B-682B-4F82-9B4E-BA694A5BFEE3}
 		{45D997C4-CA6F-4681-95BE-30DE1E7B616B} = {A38A27D6-3511-4472-8A82-F577E9B8FA99}
+		{1AC58167-21F2-4F05-9986-1FF9AC6CCC5F} = {FB1AD97B-682B-4F82-9B4E-BA694A5BFEE3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C170943D-5E39-4779-A7A1-F445A7EB9492}
